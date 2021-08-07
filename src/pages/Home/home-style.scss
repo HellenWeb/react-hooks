@@ -1,0 +1,21 @@
+
+.intro {
+    margin: 15% 0;
+    .intro__img {
+        width: 200px;
+        position: relative;
+        left: 20px;
+    }
+    .intro__title {
+        display: flex;
+        justify-content: center;
+        h1 {
+            font-weight: 600;
+            padding-right: 100px;
+        }
+    }
+    .intro__subtitle {
+        text-align: center;
+        opacity: .5;
+    }
+}
