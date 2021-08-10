@@ -12,13 +12,13 @@ My first experience in using react hooks
 ``` npm install --save @fortawesome/free-brands-svg-icons ```
 ## Start
 ```
-Start App = **npm start** 
+Start App = npm start 
 ```
 ```
-Build App = **npm build**
+Build App = npm build
 ```
 ```
-Test App = **npm test**
+Test App = npm test
 ```
 ## Links
 [React](https://reactjs.org/)
