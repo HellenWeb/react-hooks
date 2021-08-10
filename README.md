@@ -10,6 +10,16 @@ My first experience in using react hooks
 ``` npm install --save @fortawesome/free-solid-svg-icons ```
 ``` npm install --save @fortawesome/react-fontawesome ```
 ``` npm install --save @fortawesome/free-brands-svg-icons ```
+## Start
+```
+Start App = **npm start** 
+```
+```
+Build App = **npm build**
+```
+```
+Test App = **npm test**
+```
 ## Links
 [React](https://reactjs.org/)
 [Materialize](https://materializecss.com/)
